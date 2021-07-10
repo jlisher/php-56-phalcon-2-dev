@@ -9,6 +9,10 @@ It features:
 - PHP-FPM
 - Xdebug `v2.5.5` 
 
+## Purpose
+
+The purpose of this project is to provide developers a quick and easy to setup development environment, to allow them to debug and upgrade legacy Phalcon v2 applications.
+
 ## Prerequisites
 
 You will need a container runtime to use the image. The easiest way to get start is simply [Docker](https://docker.com).
