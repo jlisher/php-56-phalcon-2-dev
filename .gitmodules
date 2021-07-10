@@ -1,0 +1,6 @@
+[submodule "phalcon"]
+	path = phalcon
+	url = https://github.com/phalcon/cphalcon.git
+[submodule "phalcon-devtools"]
+	path = phalcon-devtools
+	url = https://github.com/phalcon/phalcon-devtools.git
