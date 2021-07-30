@@ -15,7 +15,7 @@ networks:
 
 services:
     app:
-        image: jlisher/php56-phalcon-2-dev:latest
+        image: docker.io/jlisher/php56-phalcon-2-dev:latest
         build:
             context: .
             args:
